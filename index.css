@@ -1,0 +1,82 @@
+#phone-background {
+	background-image: url("images/phone-2.a0e481df3d808370cf1d.jpg");
+	background-attachment: fixed;
+	background-size: auto;
+}
+
+#grey-text {
+	color: #bebebe;
+}
+
+#greyer-text {
+	color: #6b6b70;
+}
+
+#white-text {
+	color: white;
+}
+
+.btn-warning {
+	background-color: #f09801;
+	color: white;
+	border-radius: 30px;
+	border-color: white;
+	padding-left: 3em;
+	padding-right: 3em;
+	border-width: 3px;
+}
+
+#gradient-blue {
+	background: rgb(0,92,164);
+	background: linear-gradient(180deg, rgba(0,92,164,1) 0%, rgba(4,74,143,1) 35%, rgba(43,76,116,1) 100%);
+}
+
+#taxi-background {
+	background-image: url("images/taxi.a74ffe08987564e2b9fd.jpg");
+	background-attachment: fixed;
+	background-size: auto;
+	height: 500px;
+	width: 100%;
+}
+
+#form-input {
+	background-color: white;
+	color: grey;
+	border-color: #e6e5e4;
+	border: none;
+	border-bottom: 1px solid;
+	border-radius: 0px;
+}
+
+form {
+	border: 1px solid;
+	border-radius: 15px;
+	border-color: grey;
+}
+
+.btn-primary {
+	border-radius: 30px;
+	background: linear-gradient(to bottom, #6895c4 0%, #627fa8 100%);
+	border: none;
+	padding-right: 1em;
+	padding-left: 1em;
+}
+
+#taxi-icon {
+	border-radius: 50px;
+	border-color: white;
+	border: 1px;
+	background: linear-gradient(to bottom, #6895c4 0%, #627fa8 100%);
+	height: auto;
+	
+}
+
+#round-icon {
+	border: 2px solid;
+	border-color: white;
+	border-radius: 50px;
+}
+
+#small-icon {
+	height: 35%;
+}
